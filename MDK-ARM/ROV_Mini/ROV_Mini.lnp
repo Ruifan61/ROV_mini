@@ -32,6 +32,11 @@
 "rov_mini\cmsis_os2.o"
 "rov_mini\heap_4.o"
 "rov_mini\port.o"
+"rov_mini\app.o"
+"rov_mini\task.o"
+"rov_mini\control.o"
+"rov_mini\algorithm.o"
+"rov_mini\device.o"
 --strict --scatter "ROV_Mini\ROV_Mini.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

@@ -573,18 +573,53 @@
         </Group>
         <Group>
           <GroupName>app</GroupName>
+          <Files>
+            <File>
+              <FileName>app.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\app\app.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Task</GroupName>
+          <Files>
+            <File>
+              <FileName>task.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Task\task.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>control</GroupName>
+          <Files>
+            <File>
+              <FileName>control.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\control\control.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>algorithm</GroupName>
+          <Files>
+            <File>
+              <FileName>algorithm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\algorithm\algorithm.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>device</GroupName>
+          <Files>
+            <File>
+              <FileName>device.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\device\device.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
